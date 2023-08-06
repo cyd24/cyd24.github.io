@@ -15,44 +15,157 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+# 🤵🏻 About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a second-year Ph.D. student at [the Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) of [Nanjing University](https://www.nju.edu.cn/) advised by Professor [Yu-Feng Li (李宇峰)](https://cs.nju.edu.cn/liyf/index.htm), and a member of [LAMDA Group (机器学习与数据挖掘研究所)](https://www.lamda.nju.edu.cn/CH.MainPage.ashx), which is led by Professor [Zhi-Hua Zhou (周志华)](https://cs.nju.edu.cn/zhouzh/index.htm).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received my B.Sc. degree from [the Department of Computer Science and Technology](http://ccst.jlu.edu.cn/) of [Jilin University](https://www.jlu.edu.cn/). In September 2022, I was admitted to study for a Ph.D. degree at Nanjing University without an entrance examination.
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📝 Publication
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='../images/ICML2023_ODS_Thumb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+**ODS: Test-Time Adaptation in the Presence of Open-World Data Shift.**
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Zhi Zhou**, Lan-Zhe Guo, Lin-Han Jia, Ding-Chu Zhang, Yu-Feng Li.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+In: Proceedings of the 40th International Conference on Machine Learning, Hawaii, 2023. 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span style="color:red">Oral Presentation.</span>
+[[Paper]](../resources/ICML2023_ODS.pdf) 
+[[Code]](https://www.lamda.nju.edu.cn/code_ODS.ashx)
+[[Poster]](../resources/ICML2023_ODS_Poster.png)
+[[Slide]](../resources/ICML2023_ODS_Slides.pdf) 
+[[Video]](https://icml.cc/virtual/2023/poster/24841)
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Conference Papers
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **ODS: Test-Time Adaptation in the Presence of Open-World Data Shift.** <br>
+**Zhi Zhou**, Lan-Zhe Guo, Lin-Han Jia, Ding-Chu Zhang, Yu-Feng Li. <br>
+In: Proceedings of the 40th International Conference on Machine Learning, Hawaii, 2023. <br>
+<span style="color:blue">ICML 2023.</span>
+<span style="color:red">Oral Presentation.</span>
+[[Paper]](../resources/ICML2023_ODS.pdf) 
+[[Code]](https://www.lamda.nju.edu.cn/code_ODS.ashx)
+[[Poster]](../resources/ICML2023_ODS_Poster.png)
+[[Slide]](../resources/ICML2023_ODS_Slides.pdf) 
+[[Video]](https://icml.cc/virtual/2023/poster/24841)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Bidirectional Adaptation for Robust Semi-Supervised Learning with Inconsistent Data Distributions.** <br>
+Lin-Han Jia, Lan-Zhe Guo, **Zhi Zhou**, Jie-Jing Shao, Yu-Ke Xiang, Yu-Feng Li. <br>
+In: Proceedings of the 40th International Conference on Machine Learning, Hawaii, 2023. <br>
+<span style="color:blue">ICML 2023.</span>
+<span style="color:red">Oral Presentation.</span>
+[[Paper]](../resources/ICML2023_SSL.pdf)
+[[Code]](https://github.com/YGZWQZD/LAMDA-SSL) 
 
-# 💬 Invited Talks
+- **Identifying Useful Learnwares for Heterogeneous Label Spaces.** <br>
+Lan-Zhe Guo, **Zhi Zhou (co-first author)**, Yu-Feng Li, Zhi-Hua Zhou. <br>
+In: Proceedings of the 40th International Conference on Machine Learning, Hawaii, 2023. <br>
+<span style="color:blue">ICML 2023.</span>
+[[Paper]](../resources/ICML2023_learnware.pdf)
+[[Poster]](../resources/ICML2023_learnware_Poster.png)
+
+- **USB: A Unified Semi-supervised Learning Benchmark for Classification.** <br>
+Yi-Dong Wang, Hao Chen, Yue Fan, Wang Sun, Ran Tao, Wen-Xin Hou, Ren-Jie Wang, Lin-Yi Yang, **Zhi Zhou**, Lan-Zhe Guo, He-Li Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jin-Dong Wang, Xing Xie, Yue Zhang.<br>
+In: Advances in Neural Information Processing Systems Datasets and Benchmarks, New Orleans, LA, 2022. <br>
+<span style="color:blue">NeurIPS 2022 Datasets and Benchmarks.</span>
+[[Paper]](../resources/NeurIPS2022_USB.pdf)
+[[Code]](https://github.com/microsoft/Semi-supervised-learning)
+
+- **STEP: Out-of-Distribution Detection in the Presence of Limited In-Distribution Labeled Data.** <br>
+**Zhi Zhou**, Lan-Zhe Guo, Zhan-Zhan Cheng, Yu-Feng Li, Shi-Liang Pu.<br>
+In: Advances in Neural Information Processing Systems, Virtual Conference, 2021. Page: 29168-29180. <br>
+<span style="color:blue">NeurIPS 2021.</span>
+[[Paper]](../resources/NeurIPS2021_STEP.pdf)
+[[Code]](https://www.lamda.nju.edu.cn/code_STEP.ashx) 
+[[Poster]](../resources/NeurIPS2021_STEP_Poster.png)
+[[Slide]](../resources/NeurIPS2021_STEP_Slide.pdf)
+
+- **Learning from Imbalanced and Incomplete Supervision with Its Application to Ride-Sharing Liability Judgment.** <br>
+Lan-Zhe Guo, **Zhi Zhou (co-first author)**, Jie-Jing Shao, Yu-Feng Li, and DiDi Collaborators.<br>
+In: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Singapore, 2021. Page: 487-495. <br>
+<span style="color:blue">KDD 2021.</span>
+[[Paper]](../resources/KDD2021_LIMI.pdf)
+
+- **RECORD: Resource Constrained Semi-Supervised Learning under Distribution Shift.** <br>
+Lan-Zhe Guo, **Zhi Zhou**, and Yu-Feng Li.<br>
+In: Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, San Diego, CA, 2020. Page: 1636-1644. <br>
+<span style="color:blue">KDD 2020.</span>
+[[Paper]](../resources/KDD2020_RECORD.pdf)
+[[Code]](https://www.lamda.nju.edu.cn/code_RECORD.ashx)
+
+## Journal Papers
+- **Rts: Learning Robustly from Time Series Data with Noisy Label.** <br>
+Zhi Zhou, Yi-Xuan Jin, Yu-Feng Li. <br>
+Frontiers of Computer Science, In Press. <br>
+<span style="color:blue">FCS.</span>
+[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-3200-z)
+[[Code]](https://github.com/WNJXYK/Rts) 
+
+- **LAMDA-SSL: A Comprehensive Semi-Supervised Learning Toolkit.** <br>
+Lin-Han Jia, Lan-Zhe Guo, **Zhi Zhou**, Yu-Feng Li. <br>
+Science CHINA Information Science, In Press. <br>
+<span style="color:blue">SCIS.</span>
+[[Arxiv]](https://arxiv.org/pdf/2208.04610.pdf)
+[[Code]](https://github.com/YGZWQZD/LAMDA-SSL) 
+
+# 🛠 Software
+
+- LawGPT: A Large Language Model in the Legal Domain. [[GitHub]](https://github.com/pengxiao-song/LaWGPT) 
+- LAMDA-SSL: A comprehensive and easy-to-use toolkit for semi-supervised learning. [[GitHub]](https://github.com/YGZWQZD/LAMDA-SSL) 
+<!-- - USB: A Unified Semi-supervised learning Benchmark for CV, NLP, and Audio Classification. [[GitHub]](https://github.com/microsoft/Semi-supervised-learning) -->
+
+# 💻 Project
+- *2021.10 - 2022.05*, [Housing Sales Customer Rating Model Optimization](../resources/Beike2021.pdf), Beike (Internship), China.
+- *2022.06 - 2023.06*, Fraud Detection System based on Weakly Supervised Learning, Huawei, China.
+- *2021.03 - 2022.12*, Concept Incremental Learning with Active Anotations, Hikvision, China.
+- *2020.07 - 2021.09*, Liability Judgment System based on Semi-Supervised Multi-Label Learning, Didi (Internship), China.
+
+# 🎖 Honor
+- *2022.06*, [LAMDA Elite Award](../resources/LAMDA2022_Elite.pdf), Nanjing University.
+- *2022.03*, [Tencent Scholarship](../resources/Tencent2021_Scholarship.pdf), Nanjing University.
+- *2020.06*, [Top 10 College Student of the Year](../resources/JLU2019_Top10.pdf), Jilin University.
+- *2019.10*, CCF Collegiate Computer Systems & Programming Contest, [Gold Medal (11th)](../resources/CCSP2019.pdf), Suzhou.
+- *2018.12*, ACM-ICPC Asia Regional Contest, [Gold Medal (19th)](../resources/ICPC2018_ECFinal.pdf), EC-Final.
+- *2018.10*, ACM-ICPC Asia Regional Contest, [Gold Medal](../resources/ICPC2018_Xuzhou.pdf), Xuzhou.
+- *2018.10*, ACM-ICPC Asia Regional Contest, [Gold Medal (16th)](../resources/ICPC2018_Shenyang.pdf), Shenyang.
+- *2018.09*, China Collegiate Programming Contest, [Gold Medal (4th)](../resources/CCPC2018_Qinghuangdao.pdf), Qinhuangdao.
+- *2018.09*, China Collegiate Programming Contest, [Gold Medal (10th)](../resources/CCPC2018_Jilin.pdf), Jilin.
+
+# 🤝 Activity
+
+## Conference Committee
+
+- Senior Program Committee Member, ACML 2022.
+- Program Committee Member, NeurIPS 2022/2023.
+- Program Committee Member, ICML 2022/2023.
+- Program Committee Member, AAAI 2023/2024.
+- Program Committee Member, ECAI 2023.
+
+## Journal Reviewer
+- Reviewer for Machine Learning Journal (MLJ)
+- Reviewer for Frontiers of Computer Science (FCS)
+
+
+## Teaching Assistant
+- *2022.02 - 2022.06*, Teaching Assistant for Introduction to Advanced Machine Learning, Nanjing Univeristy.
+- *2021.09 - 2022.01*, Teaching Assistant for Introduction to Machine Learning, Nanjing Univeristy.
+
+
+# 📖 Education
+- *2022.09 - Now*, Ph.D., Computer Science and Technology, Nanjing University, Nanjing.
+- *2020.09 - 2022.06*, Master, Computer Science and Technology, Nanjing University, Nanjing.
+- *2016.09 - 2020.06*. Undergraduate, Tang Aoqing Honors Class (Computer Science and Technology), Jilin University, Jilin.
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
