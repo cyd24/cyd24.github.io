@@ -21,12 +21,11 @@ I am a second-year Ph.D. student at [the Department of Computer Science and Tech
 
 I received my B.Sc. degree from [the Department of Computer Science and Technology](http://ccst.jlu.edu.cn/) of [Jilin University](https://www.jlu.edu.cn/). In September 2022, I was admitted to study for a Ph.D. degree at Nanjing University without an entrance examination.
 
-
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publication
+# 📝 Publication <a href='https://scholar.google.com/citations?user=VzvP5a8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <!-- <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='../images/ICML2023_ODS_Thumb.png' alt="sym" width="100%"></div></div>
@@ -56,7 +55,7 @@ In: Proceedings of the 40th International Conference on Machine Learning, Hawaii
 [[Paper]](../resources/ICML2023_ODS.pdf) 
 [[Code]](https://www.lamda.nju.edu.cn/code_ODS.ashx)
 [[Poster]](../resources/ICML2023_ODS_Poster.png)
-[[Slide]](../resources/ICML2023_ODS_Slides.pdf) 
+[[Slide]](../resources/ICML2023_ODS_Slide.pdf) 
 [[Video]](https://icml.cc/virtual/2023/poster/24841)
 
 - **Bidirectional Adaptation for Robust Semi-Supervised Learning with Inconsistent Data Distributions.** <br>
@@ -105,7 +104,7 @@ In: Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Dat
 
 ## Journal Papers
 - **Rts: Learning Robustly from Time Series Data with Noisy Label.** <br>
-Zhi Zhou, Yi-Xuan Jin, Yu-Feng Li. <br>
+**Zhi Zhou**, Yi-Xuan Jin, Yu-Feng Li. <br>
 Frontiers of Computer Science, In Press. <br>
 <span style="color:blue">FCS.</span>
 [[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-3200-z)
@@ -121,25 +120,30 @@ Science CHINA Information Science, In Press. <br>
 # 🛠 Software
 
 - LawGPT: A Large Language Model in the Legal Domain. [[GitHub]](https://github.com/pengxiao-song/LaWGPT) 
-- LAMDA-SSL: A comprehensive and easy-to-use toolkit for semi-supervised learning. [[GitHub]](https://github.com/YGZWQZD/LAMDA-SSL) 
+- LAMDA-SSL: A Comprehensive and Easy-to-Use Toolkit for Semi-Supervised Learning. [[GitHub]](https://github.com/YGZWQZD/LAMDA-SSL) 
 <!-- - USB: A Unified Semi-supervised learning Benchmark for CV, NLP, and Audio Classification. [[GitHub]](https://github.com/microsoft/Semi-supervised-learning) -->
 
 # 💻 Project
-- *2021.10 - 2022.05*, [Housing Sales Customer Rating Model Optimization](../resources/Beike2021.pdf), Beike (Internship), China.
-- *2022.06 - 2023.06*, Fraud Detection System based on Weakly Supervised Learning, Huawei, China.
+- *2022.06 - 2023.06*, Fraud Detection System based on Weakly Supervised Learning, [Huawei](../resources/Huawei2023_Award.pdf), China.
+- *2021.10 - 2022.05*, Housing Sales Customer Rating Model Optimization, [Beike (Internship)](../resources/Beike2021.pdf), China.
 - *2021.03 - 2022.12*, Concept Incremental Learning with Active Anotations, Hikvision, China.
 - *2020.07 - 2021.09*, Liability Judgment System based on Semi-Supervised Multi-Label Learning, Didi (Internship), China.
 
 # 🎖 Honor
-- *2022.06*, [LAMDA Elite Award](../resources/LAMDA2022_Elite.pdf), Nanjing University.
+- *2022.06*, [LAMDA Excellent Student Award](../resources/LAMDA2022_Elite.pdf), Nanjing University.
 - *2022.03*, [Tencent Scholarship](../resources/Tencent2021_Scholarship.pdf), Nanjing University.
 - *2020.06*, [Top 10 College Student of the Year](../resources/JLU2019_Top10.pdf), Jilin University.
+- *2019.12*, [National Scholarship](../resources/JLU2019_NationalScholarship.pdf), Jilin University.
 - *2019.10*, CCF Collegiate Computer Systems & Programming Contest, [Gold Medal (11th)](../resources/CCSP2019.pdf), Suzhou.
+- *2019.06*, [Tang Aoqing Honors Program of Research & Practice](../resources/JLU2019_TAQScholarship.jpg), Jilin University.
 - *2018.12*, ACM-ICPC Asia Regional Contest, [Gold Medal (19th)](../resources/ICPC2018_ECFinal.pdf), EC-Final.
+- *2018.11*, [National Scholarship](../resources/JLU2018_NationalScholarship.jpg), Jilin University.
 - *2018.10*, ACM-ICPC Asia Regional Contest, [Gold Medal](../resources/ICPC2018_Xuzhou.pdf), Xuzhou.
 - *2018.10*, ACM-ICPC Asia Regional Contest, [Gold Medal (16th)](../resources/ICPC2018_Shenyang.pdf), Shenyang.
-- *2018.09*, China Collegiate Programming Contest, [Gold Medal (4th)](../resources/CCPC2018_Qinghuangdao.pdf), Qinhuangdao.
+- *2018.09*, China Collegiate Programming Co ntest, [Gold Medal (4th)](../resources/CCPC2018_Qinghuangdao.pdf), Qinhuangdao.
 - *2018.09*, China Collegiate Programming Contest, [Gold Medal (10th)](../resources/CCPC2018_Jilin.pdf), Jilin.
+- *2018.06*, [Tang Aoqing Honors Program of Research & Practice](../resources/JLU2018_TAQScholarship.jpg), Jilin University.
+- *2017.11*, [National Scholarship](../resources/JLU2017_NationalScholarship.jpg), Jilin University.
 
 # 🤝 Activity
 
@@ -164,7 +168,7 @@ Science CHINA Information Science, In Press. <br>
 # 📖 Education
 - *2022.09 - Now*, Ph.D., Computer Science and Technology, Nanjing University, Nanjing.
 - *2020.09 - 2022.06*, Master, Computer Science and Technology, Nanjing University, Nanjing.
-- *2016.09 - 2020.06*. Undergraduate, Tang Aoqing Honors Class (Computer Science and Technology), Jilin University, Jilin.
+- *2016.09 - 2020.06*. Undergraduate, Tang Aoqing Honors Program (Computer Science and Technology), Jilin University, Jilin.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

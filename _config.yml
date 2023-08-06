@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhi Zhou's Homepage"
-description              : ""
+title                    : "Zhi Zhou (周植)"
+description              : "<center>A Ph.D. Student of LAMDA Group</center>"
 repository               : "WNJXYK/WNJXYK.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "<center>Zhi Zhou</center>\n<center>周植</center>"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "<center>A Ph.D. Student of LAMDA Group</center>"
-  location         : "Nanjing University"
+  bio              : "<center>Nanjing University</center>"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VzvP5a8AAAAJ"
