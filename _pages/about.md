@@ -140,7 +140,7 @@ Science CHINA Information Science, In Press. <br>
 - *2018.11*, [National Scholarship](../resources/JLU2018_NationalScholarship.jpg), Jilin University.
 - *2018.10*, ACM-ICPC Asia Regional Contest, [Gold Medal](../resources/ICPC2018_Xuzhou.pdf), Xuzhou.
 - *2018.10*, ACM-ICPC Asia Regional Contest, [Gold Medal (16th)](../resources/ICPC2018_Shenyang.pdf), Shenyang.
-- *2018.09*, China Collegiate Programming Co ntest, [Gold Medal (4th)](../resources/CCPC2018_Qinghuangdao.pdf), Qinhuangdao.
+- *2018.09*, China Collegiate Programming Contest, [Gold Medal (4th)](../resources/CCPC2018_Qinghuangdao.pdf), Qinhuangdao.
 - *2018.09*, China Collegiate Programming Contest, [Gold Medal (10th)](../resources/CCPC2018_Jilin.pdf), Jilin.
 - *2018.06*, [Tang Aoqing Honors Program of Research & Practice](../resources/JLU2018_TAQScholarship.jpg), Jilin University.
 - *2017.11*, [National Scholarship](../resources/JLU2017_NationalScholarship.jpg), Jilin University.
