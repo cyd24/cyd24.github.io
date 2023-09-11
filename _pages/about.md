@@ -117,6 +117,12 @@ Science CHINA Information Science, In Press. <br>
 [[Arxiv]](https://arxiv.org/pdf/2208.04610.pdf)
 [[Code]](https://github.com/YGZWQZD/LAMDA-SSL) 
 
+- **Towards Robust Test-Time Adaptation for Open-Set Recognition** <br>
+**Zhi Zhou**, Ding-Chu Zhang, Yu-Feng Li, Min-Ling Zhang. <br>
+Journal of Software (软件学报), In Press. <br>
+<span style="color:blue">JOS.</span>
+[[Paper]](http://www.jos.org.cn/jos/article/abstract/7009?st=article_issue&bsh_bid=5968787845)
+
 # 🛠 Software
 
 - LawGPT: A Large Language Model in the Legal Domain. [[GitHub]](https://github.com/pengxiao-song/LaWGPT) 
@@ -152,6 +158,7 @@ Science CHINA Information Science, In Press. <br>
 - Senior Program Committee Member, ACML 2022.
 - Program Committee Member, NeurIPS 2022/2023.
 - Program Committee Member, ICML 2022/2023.
+- Program Committee Member, ICLR 2024.
 - Program Committee Member, AAAI 2023/2024.
 - Program Committee Member, ECAI 2023.
 
