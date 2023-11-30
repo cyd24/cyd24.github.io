@@ -49,7 +49,7 @@ In: Proceedings of the 40th International Conference on Machine Learning, Hawaii
 
 - **ODS: Test-Time Adaptation in the Presence of Open-World Data Shift.** <br>
 **Zhi Zhou**, Lan-Zhe Guo, Lin-Han Jia, Ding-Chu Zhang, Yu-Feng Li. <br>
-In: Proceedings of the 40th International Conference on Machine Learning, Hawaii, 2023. <br>
+In: Proceedings of the 40th International Conference on Machine Learning, Hawaii, 2023. Page: 42574-42588.<br>
 <span style="color:blue">ICML 2023.</span>
 <span style="color:red">Oral Presentation.</span>
 [[Paper]](../resources/ICML2023_ODS.pdf) 
@@ -60,7 +60,7 @@ In: Proceedings of the 40th International Conference on Machine Learning, Hawaii
 
 - **Bidirectional Adaptation for Robust Semi-Supervised Learning with Inconsistent Data Distributions.** <br>
 Lin-Han Jia, Lan-Zhe Guo, **Zhi Zhou**, Jie-Jing Shao, Yu-Ke Xiang, Yu-Feng Li. <br>
-In: Proceedings of the 40th International Conference on Machine Learning, Hawaii, 2023. <br>
+In: Proceedings of the 40th International Conference on Machine Learning, Hawaii, 2023. Page: 14886-14901.<br>
 <span style="color:blue">ICML 2023.</span>
 <span style="color:red">Oral Presentation.</span>
 [[Paper]](../resources/ICML2023_SSL.pdf)
@@ -68,14 +68,14 @@ In: Proceedings of the 40th International Conference on Machine Learning, Hawaii
 
 - **Identifying Useful Learnwares for Heterogeneous Label Spaces.** <br>
 Lan-Zhe Guo, **Zhi Zhou (co-first author)**, Yu-Feng Li, Zhi-Hua Zhou. <br>
-In: Proceedings of the 40th International Conference on Machine Learning, Hawaii, 2023. <br>
+In: Proceedings of the 40th International Conference on Machine Learning, Hawaii, 2023. Page: 12122-12131. <br>
 <span style="color:blue">ICML 2023.</span>
 [[Paper]](../resources/ICML2023_learnware.pdf)
 [[Poster]](../resources/ICML2023_learnware_Poster.png)
 
 - **USB: A Unified Semi-supervised Learning Benchmark for Classification.** <br>
 Yi-Dong Wang, Hao Chen, Yue Fan, Wang Sun, Ran Tao, Wen-Xin Hou, Ren-Jie Wang, Lin-Yi Yang, **Zhi Zhou**, Lan-Zhe Guo, He-Li Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jin-Dong Wang, Xing Xie, Yue Zhang.<br>
-In: Advances in Neural Information Processing Systems Datasets and Benchmarks, New Orleans, LA, 2022. <br>
+In: Advances in Neural Information Processing Systems Datasets and Benchmarks, New Orleans, LA, 2022. Page: 3938-3961.<br>
 <span style="color:blue">NeurIPS 2022 Datasets and Benchmarks.</span>
 [[Paper]](../resources/NeurIPS2022_USB.pdf)
 [[Code]](https://github.com/microsoft/Semi-supervised-learning)
@@ -119,7 +119,7 @@ Science CHINA Information Science, In Press. <br>
 
 - **Towards Robust Test-Time Adaptation for Open-Set Recognition** <br>
 **Zhi Zhou**, Ding-Chu Zhang, Yu-Feng Li, Min-Ling Zhang. <br>
-Journal of Software (软件学报), In Press. <br>
+Journal of Software (软件学报), 35(4), 2024. <br>
 <span style="color:blue">JOS.</span>
 [[Paper]](http://www.jos.org.cn/jos/article/abstract/7009?st=article_issue&bsh_bid=5968787845)
 
