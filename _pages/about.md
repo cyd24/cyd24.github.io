@@ -123,6 +123,13 @@ Journal of Software (软件学报), 35(4), 2024. <br>
 <span style="color:blue">JOS.</span>
 [[Paper]](http://www.jos.org.cn/jos/article/abstract/7009?st=article_issue&bsh_bid=5968787845)
 
+## Other Papers
+
+- **You Only Submit One Image to Find the Most Suitable Generative Model** <br>
+**Zhi Zhou**, Lan-Zhe Guo, Pengxiao Song, Yu-Feng Li. <br>
+NeurIPS 2023 Diffusion Workshop. <br>
+[[Page]](https://neurips.cc/virtual/2023/74865)
+
 # 🛠 Software
 
 - LawGPT: A Large Language Model in the Legal Domain. [[GitHub]](https://github.com/pengxiao-song/LaWGPT) 
