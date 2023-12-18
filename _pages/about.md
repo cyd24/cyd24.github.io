@@ -167,12 +167,12 @@ NeurIPS 2023 Diffusion Workshop. <br>
 - Program Committee Member, ICML 2022/2023.
 - Program Committee Member, ICLR 2024.
 - Program Committee Member, AAAI 2023/2024.
-- Program Committee Member, ECAI 2023.
+- Program Committee Member, ECAI 2023/2024.
 
 ## Journal Reviewer
 - Reviewer for Machine Learning Journal (MLJ)
+- Reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - Reviewer for Frontiers of Computer Science (FCS)
-
 
 ## Teaching Assistant
 - *2022.02 - 2022.06*, Teaching Assistant for Introduction to Advanced Machine Learning, Nanjing Univeristy.
