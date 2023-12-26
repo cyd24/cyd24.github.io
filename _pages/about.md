@@ -143,6 +143,7 @@ NeurIPS 2023 Diffusion Workshop. <br>
 - *2020.07 - 2021.09*, Liability Judgment System based on Semi-Supervised Multi-Label Learning, Didi (Internship), China.
 
 # 🎖 Honor
+- *2023.11*, [China Mobile Hackathon - University Joint Research Institute Special Competition in Machine Vision and Artificial Intelligence](../resources/NJU2023_AIHackathon.pdf), Nanjing University.
 - *2022.06*, [LAMDA Excellent Student Award](../resources/LAMDA2022_Elite.pdf), Nanjing University.
 - *2022.03*, [Tencent Scholarship](../resources/Tencent2021_Scholarship.pdf), Nanjing University.
 - *2020.06*, [Top 10 College Student of the Year](../resources/JLU2019_Top10.pdf), Jilin University.
