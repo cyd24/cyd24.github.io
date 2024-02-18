@@ -55,7 +55,7 @@ In: Proceedings of the 12th International Conference on Learning Representations
 Ding-Chu Zhang, **Zhi Zhou (co-first author)**, Yu-Feng Li. <br>
 In: Proceedings of the 38th AAAI conference on Artificial Intelligence, Vancouver, 2024. <br>
 <span style="color:blue">AAAI 2024.</span>
-<span style="color:yellow">CCF-A.</span>
+<span style="color:grey">CCF-A.</span>
 [[Paper]](../resources/AAAI2024_AdaPrompt.pdf) 
 [[Code]](https://github.com/zhangdingchu/Adaprompt)
 [[Poster]](../resources/AAAI2024_AdaPrompt_Poster.pdf)
@@ -66,7 +66,7 @@ In: Proceedings of the 38th AAAI conference on Artificial Intelligence, Vancouve
 In: Proceedings of the 40th International Conference on Machine Learning, Hawaii, 2023. Page: 42574-42588.<br>
 <span style="color:blue">ICML 2023.</span>
 <span style="color:red">Oral Presentation.</span>
-<span style="color:yellow">CCF-A.</span>
+<span style="color:grey">CCF-A.</span>
 [[Paper]](../resources/ICML2023_ODS.pdf) 
 [[Code]](https://www.lamda.nju.edu.cn/code_ODS.ashx)
 [[Poster]](../resources/ICML2023_ODS_Poster.png)
@@ -78,7 +78,7 @@ Lin-Han Jia, Lan-Zhe Guo, **Zhi Zhou**, Jie-Jing Shao, Yu-Ke Xiang, Yu-Feng Li. 
 In: Proceedings of the 40th International Conference on Machine Learning, Hawaii, 2023. Page: 14886-14901.<br>
 <span style="color:blue">ICML 2023.</span>
 <span style="color:red">Oral Presentation.</span>
-<span style="color:yellow">CCF-A.</span>
+<span style="color:grey">CCF-A.</span>
 [[Paper]](../resources/ICML2023_SSL.pdf)
 [[Code]](https://github.com/YGZWQZD/LAMDA-SSL) 
 
@@ -86,7 +86,7 @@ In: Proceedings of the 40th International Conference on Machine Learning, Hawaii
 Lan-Zhe Guo, **Zhi Zhou (co-first author)**, Yu-Feng Li, Zhi-Hua Zhou. <br>
 In: Proceedings of the 40th International Conference on Machine Learning, Hawaii, 2023. Page: 12122-12131. <br>
 <span style="color:blue">ICML 2023.</span>
-<span style="color:yellow">CCF-A.</span>
+<span style="color:grey">CCF-A.</span>
 [[Paper]](../resources/ICML2023_learnware.pdf)
 [[Poster]](../resources/ICML2023_learnware_Poster.png)
 
@@ -94,7 +94,7 @@ In: Proceedings of the 40th International Conference on Machine Learning, Hawaii
 Yi-Dong Wang, Hao Chen, Yue Fan, Wang Sun, Ran Tao, Wen-Xin Hou, Ren-Jie Wang, Lin-Yi Yang, **Zhi Zhou**, Lan-Zhe Guo, He-Li Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jin-Dong Wang, Xing Xie, Yue Zhang.<br>
 In: Advances in Neural Information Processing Systems Datasets and Benchmarks, New Orleans, LA, 2022. Page: 3938-3961.<br>
 <span style="color:blue">NeurIPS 2022 Datasets and Benchmarks.</span>
-<span style="color:yellow">CCF-A.</span>
+<span style="color:grey">CCF-A.</span>
 [[Paper]](../resources/NeurIPS2022_USB.pdf)
 [[Code]](https://github.com/microsoft/Semi-supervised-learning)
 
@@ -102,7 +102,7 @@ In: Advances in Neural Information Processing Systems Datasets and Benchmarks, N
 **Zhi Zhou**, Lan-Zhe Guo, Zhan-Zhan Cheng, Yu-Feng Li, Shi-Liang Pu.<br>
 In: Advances in Neural Information Processing Systems, Virtual Conference, 2021. Page: 29168-29180. <br>
 <span style="color:blue">NeurIPS 2021.</span>
-<span style="color:yellow">CCF-A.</span>
+<span style="color:grey">CCF-A.</span>
 [[Paper]](../resources/NeurIPS2021_STEP.pdf)
 [[Code]](https://www.lamda.nju.edu.cn/code_STEP.ashx) 
 [[Poster]](../resources/NeurIPS2021_STEP_Poster.png)
@@ -112,14 +112,14 @@ In: Advances in Neural Information Processing Systems, Virtual Conference, 2021.
 Lan-Zhe Guo, **Zhi Zhou (co-first author)**, Jie-Jing Shao, Yu-Feng Li, and DiDi Collaborators.<br>
 In: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Singapore, 2021. Page: 487-495. <br>
 <span style="color:blue">KDD 2021.</span>
-<span style="color:yellow">CCF-A.</span>
+<span style="color:grey">CCF-A.</span>
 [[Paper]](../resources/KDD2021_LIMI.pdf)
 
 - **RECORD: Resource Constrained Semi-Supervised Learning under Distribution Shift.** <br>
 Lan-Zhe Guo, **Zhi Zhou**, and Yu-Feng Li.<br>
 In: Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, San Diego, CA, 2020. Page: 1636-1644. <br>
 <span style="color:blue">KDD 2020.</span>
-<span style="color:yellow">CCF-A.</span>
+<span style="color:grey">CCF-A.</span>
 [[Paper]](../resources/KDD2020_RECORD.pdf)
 [[Code]](https://www.lamda.nju.edu.cn/code_RECORD.ashx)
 
@@ -128,7 +128,7 @@ In: Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Dat
 **Zhi Zhou**, Yi-Xuan Jin, Yu-Feng Li. <br>
 Frontiers of Computer Science, 18(6): 186332, 2024. <br>
 <span style="color:blue">FCS.</span>
-<span style="color:yellow">CCF-B.</span>
+<span style="color:grey">CCF-B.</span>
 [[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-3200-z)
 [[Code]](https://github.com/WNJXYK/Rts) 
 
@@ -136,7 +136,7 @@ Frontiers of Computer Science, 18(6): 186332, 2024. <br>
 Lin-Han Jia, Lan-Zhe Guo, **Zhi Zhou**, Yu-Feng Li. <br>
 Science CHINA Information Science, 67: 117101, 2024. <br>
 <span style="color:blue">SCIS.</span>
-<span style="color:yellow">CCF-A.</span>
+<span style="color:grey">CCF-A.</span>
 [[Arxiv]](https://arxiv.org/pdf/2208.04610.pdf)
 [[Code]](https://github.com/YGZWQZD/LAMDA-SSL) 
 
@@ -144,7 +144,7 @@ Science CHINA Information Science, 67: 117101, 2024. <br>
 **Zhi Zhou**, Ding-Chu Zhang, Yu-Feng Li, Min-Ling Zhang. <br>
 Journal of Software (软件学报), 35(4), 2024. <br>
 <span style="color:blue">JOS.</span>
-<span style="color:yellow">CCF-A.</span>
+<span style="color:grey">CCF-A.</span>
 [[Paper]](http://www.jos.org.cn/jos/article/abstract/7009?st=article_issue&bsh_bid=5968787845)
 
 ## Other Papers
