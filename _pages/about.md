@@ -124,6 +124,7 @@ In: Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Dat
 [[Code]](https://www.lamda.nju.edu.cn/code_RECORD.ashx)
 
 ## Journal Papers
+
 - **Rts: Learning Robustly from Time Series Data with Noisy Label.** <br>
 **Zhi Zhou**, Yi-Xuan Jin, Yu-Feng Li. <br>
 Frontiers of Computer Science, 18(6): 186332, 2024. <br>
@@ -161,6 +162,7 @@ NeurIPS 2023 Diffusion Workshop. <br>
 <!-- - USB: A Unified Semi-supervised learning Benchmark for CV, NLP, and Audio Classification. [[GitHub]](https://github.com/microsoft/Semi-supervised-learning) -->
 
 # 💻 Project
+
 - *2022.06 - 2023.06*, Fraud Detection System based on Weakly Supervised Learning, [Huawei](../resources/Huawei2023_Award.pdf), China.
 - *2021.10 - 2022.05*, Housing Sales Customer Rating Model Optimization, [Beike (Internship)](../resources/Beike2021.pdf), China.
 - *2021.03 - 2022.12*, Concept Incremental Learning with Active Anotations, Hikvision, China.
