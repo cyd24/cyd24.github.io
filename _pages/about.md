@@ -195,6 +195,7 @@ NeurIPS 2023 Diffusion Workshop. <br>
 - Program Committee Member, NeurIPS 2022/2023.
 - Program Committee Member, ICML 2022/2023/2024.
 - Program Committee Member, ICLR 2024.
+- Program Committee Member, KDD 2024.
 - Program Committee Member, AAAI 2023/2024.
 - Program Committee Member, ECAI 2023/2024.
 
