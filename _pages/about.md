@@ -51,6 +51,12 @@ In: Proceedings of the 40th International Conference on Machine Learning, Hawaii
 In: Proceedings of the 12th International Conference on Learning Representations, 2024. <br>
 <span style="color:blue">ICLR 2024.</span>
 
+- **HONGAT: Graph Attention Networks in the Presence of High-Order Neighbors**. <br>
+Heng-Kai Zhang, Yi-Ge Zhang, **Zhi Zhou**, Yu-Feng Li. <br>
+In: Proceedings of the 38th AAAI conference on Artificial Intelligence, Vancouver, 2024. <br>
+<span style="color:blue">AAAI 2024.</span>
+<span style="color:grey">CCF-A.</span>
+
 - **Robust Test-Time Adaptation for Zero-Shot Prompt Tuning.** <br>
 Ding-Chu Zhang, **Zhi Zhou (co-first author)**, Yu-Feng Li. <br>
 In: Proceedings of the 38th AAAI conference on Artificial Intelligence, Vancouver, 2024. <br>
