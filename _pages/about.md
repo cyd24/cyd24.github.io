@@ -176,7 +176,7 @@ NeurIPS 2023 Diffusion Workshop. <br>
 
 # 🎖 Honor
 
-- *2023.12*, National Scholarship, Nanjing University.
+- *2023.12*, [National Scholarship](../resources/NJU2023_NationalScholarship.pdf), Nanjing University.
 - *2023.11*, [China Mobile Hackathon - University Joint Research Institute Special Competition in Machine Vision and Artificial Intelligence](../resources/NJU2023_AIHackathon.pdf), Nanjing University.
 - *2022.06*, [LAMDA Excellent Student Award](../resources/LAMDA2022_Elite.pdf), Nanjing University.
 - *2022.03*, [Tencent Scholarship](../resources/Tencent2021_Scholarship.pdf), Nanjing University.
