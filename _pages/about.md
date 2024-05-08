@@ -47,6 +47,18 @@ In: Proceedings of the 40th International Conference on Machine Learning, Hawaii
 
 ## Conference Papers
 
+- **DeCoOp: Robust Prompt Tuning with Out-of-Distribution Detection.** <br>
+**Zhi Zhou**, Ming Yang, Jiang-Xin Shi, Lan-Zhe Guo, Yu-Feng Li. <br>
+In: Proceedings of the 41th International Conference on Machine Learning, Vienna, 2024.<br>
+<span style="color:blue">ICML 2024.</span>
+<span style="color:grey">CCF-A.</span>
+
+- **Long-tail Learning with Foundation Model: Heavy Fine-tuning Hurts.** <br>
+Jiang-Xin Shi, Tong Wei, **Zhi Zhou**, Jie-Jing Shao, Xin-Yan Han, Yu-Feng Li. <br>
+In: Proceedings of the 41th International Conference on Machine Learning, Vienna, 2024.<br>
+<span style="color:blue">ICML 2024.</span>
+<span style="color:grey">CCF-A.</span>
+
 - **A Benchmark on Robust Semi-Supervised Learning in Open Environments.** <br> Lin-Han Jia, Lan-Zhe Guo, **Zhi Zhou**, Yu-Feng Li. <br>
 In: Proceedings of the 12th International Conference on Learning Representations, 2024. <br>
 <span style="color:blue">ICLR 2024.</span>
@@ -198,7 +210,7 @@ NeurIPS 2023 Diffusion Workshop. <br>
 ## Conference Committee
 
 - Senior Program Committee Member, ACML 2022.
-- Program Committee Member, NeurIPS 2022/2023.
+- Program Committee Member, NeurIPS 2022/2023/2024.
 - Program Committee Member, ICML 2022/2023/2024.
 - Program Committee Member, ICLR 2024.
 - Program Committee Member, KDD 2024.
