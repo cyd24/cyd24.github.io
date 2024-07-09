@@ -39,12 +39,12 @@ Computer Research and Development(计算机研究与发展), 61(7), 2024. <br>
 
 
 # 💻 Project 
-- *2021.09 - 2023.10* Merchant Transaction Anomaly Detection, [Shouqianba](https://www.shouqianba.com/), China.
-- *2022.05 - 2023.07* Internal Account Anomaly Detection, [Bank of Shanghai](https://www.bosc.cn/zh/), China.
+- *2021.09 - 2023.10*, Merchant Transaction Anomaly Detection, [Shouqianba](https://www.shouqianba.com/), China.
+- *2022.05 - 2023.07*, Internal Account Anomaly Detection, [Bank of Shanghai](https://www.bosc.cn/zh/), China.
 
 # 🎖 Honors and Awards
-- *2019.05* National English Competition for College Students, The Third Prize, NanJing. 
-- *2020.12* The Chinese Mathematics Competitions, The Third Prize, NanJing. 
+- *2019.05*, National English Competition for College Students, The Third Prize, NanJing. 
+- *2020.12*, The Chinese Mathematics Competitions, The Third Prize, NanJing. 
 
 # 📖 Educations
 - *2021.08 - 2024.06*, Master, Data Science and Engineering, East China Normal University, Shanghai.
