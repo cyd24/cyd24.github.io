@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhi Zhou (周植)"
-description              : "<center>A Ph.D. Student of LAMDA Group</center>"
-repository               : "WNJXYK/WNJXYK.github.io"
+title                    : "Yudong Cheng (程渝栋)"
+description              : "<center></center>"
+repository               : "cyd24/cyd24.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "<center>Zhi Zhou</center>\n<center>周植</center>"
+  name             : "<center>Yudong Cheng</center>\n<center>程渝栋</center>"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "<center>Nanjing University</center>"
-  location         : "Nanjing, China"
+  bio              : "<center>East China Normal University</center>"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=VzvP5a8AAAAJ"
-  email            : "zhouz@lamda.nju.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=8IopmhYAAAAJ"
+  email            : "chengyd@stu.ecnu.edu.cn"
+  researchgate     :  
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,18 +37,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WNJXYK"
+  github           : "cyd24"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/04/2090-7.html"
-  orcid            : "https://orcid.org/0000-0001-7408-1200"
+  linkedin         :
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
