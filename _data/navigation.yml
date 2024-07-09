@@ -9,22 +9,20 @@ main:
   - title: "Publication"
     url: "/#-publication-"
 
-  - title: "Software"
-    url: "/#-software"
+  #- title: "Software"
+  #  url: "/#-software"
 
   - title: "Project"
     url: "/#-project"
 
-  - title: "Honor"
+  - title: "Honors and Awards"
     url: "/#-honor"
 
-  - title: "Activity"
-    url: "/#-activity"
+  #- title: "Activity"
+  #  url: "/#-activity"
 
   - title: "Education"
     url: "/#-education"
 
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
 
 
