@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a research assistant at [the Department of Public Affairs.](http://www.spa.zju.edu.cn/spachinese/) of [Zhejiang University.](https://www.zju.edu.cn/) advised by Associate Professor [Chao Wu.](https://wuchaozju.github.io/)
+
 I received my M.S degree from [the Department of Data Science and Engineering.](https://dase.ecnu.edu.cn/) of [East China Normal University.](https://www.ecnu.edu.cn/) In June 2024.
 
 My research interest includes anomaly detection and computer vision. 
