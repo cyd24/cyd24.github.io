@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am a first-year Ph.D. student at [the Department of Computer Science and Technology.](https://cs.fudan.edu.cn/) of [Fudan University.](https://www.fudan.edu.cn/) advised by Professor Zhihui Lv.
 
 I received my M.S degree from [the Department of Data Science and Engineering.](https://dase.ecnu.edu.cn/) of [East China Normal University.](https://www.ecnu.edu.cn/) In June 2024.
 
@@ -49,3 +50,4 @@ Computer Research and Development(计算机研究与发展), 61(7), 2024. <br>
 
 # 📖 Educations
 - *2021.08 - 2024.06*, Master, Data Science and Engineering, East China Normal University, Shanghai.
+- *2025.08 - Now*, Ph.D, Computer Science and Technology, Fudan University, Shanghai.
